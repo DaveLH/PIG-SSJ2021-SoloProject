@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 3ea880f0627a07f498d70ef26dc35d32
+timeCreated: 1481274932
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Eye.L
+    100002: Eye.R
+    100004: //RootNode
+    100006: Phoebe_Body_Maya
+    100008: Phoebe_Hair
+    100010: QuickRigCharacter_Ctrl_ChestEndEffector
+    100012: QuickRigCharacter_Ctrl_ChestOriginEffector
+    100014: QuickRigCharacter_Ctrl_Head
+    100016: QuickRigCharacter_Ctrl_HeadEffector
+    100018: QuickRigCharacter_Ctrl_Hips
+    100020: QuickRigCharacter_Ctrl_HipsEffector
+    100022: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    100024: QuickRigCharacter_Ctrl_LeftArm
+    100026: QuickRigCharacter_Ctrl_LeftElbowEffector
+    100028: QuickRigCharacter_Ctrl_LeftFoot
+    100030: QuickRigCharacter_Ctrl_LeftFootEffector
+    100032: QuickRigCharacter_Ctrl_LeftForeArm
+    100034: QuickRigCharacter_Ctrl_LeftHand
+    100036: QuickRigCharacter_Ctrl_LeftHipEffector
+    100038: QuickRigCharacter_Ctrl_LeftKneeEffector
+    100040: QuickRigCharacter_Ctrl_LeftLeg
+    100042: QuickRigCharacter_Ctrl_LeftShoulder
+    100044: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    100046: QuickRigCharacter_Ctrl_LeftToeBase
+    100048: QuickRigCharacter_Ctrl_LeftUpLeg
+    100050: QuickRigCharacter_Ctrl_LeftWristEffector
+    100052: QuickRigCharacter_Ctrl_Neck
+    100054: QuickRigCharacter_Ctrl_Reference
+    100056: QuickRigCharacter_Ctrl_RightAnkleEffector
+    100058: QuickRigCharacter_Ctrl_RightArm
+    100060: QuickRigCharacter_Ctrl_RightElbowEffector
+    100062: QuickRigCharacter_Ctrl_RightFoot
+    100064: QuickRigCharacter_Ctrl_RightFootEffector
+    100066: QuickRigCharacter_Ctrl_RightForeArm
+    100068: QuickRigCharacter_Ctrl_RightHand
+    100070: QuickRigCharacter_Ctrl_RightHipEffector
+    100072: QuickRigCharacter_Ctrl_RightKneeEffector
+    100074: QuickRigCharacter_Ctrl_RightLeg
+    100076: QuickRigCharacter_Ctrl_RightShoulder
+    100078: QuickRigCharacter_Ctrl_RightShoulderEffector
+    100080: QuickRigCharacter_Ctrl_RightToeBase
+    100082: QuickRigCharacter_Ctrl_RightUpLeg
+    100084: QuickRigCharacter_Ctrl_RightWristEffector
+    100086: QuickRigCharacter_Ctrl_Spine
+    100088: QuickRigCharacter_Ctrl_Spine1
+    100090: QuickRigCharacter_Ctrl_Spine2
+    100092: QuickRigCharacter_Head
+    100094: QuickRigCharacter_Hips
+    100096: QuickRigCharacter_LeftArm
+    100098: QuickRigCharacter_LeftFoot
+    100100: QuickRigCharacter_LeftForeArm
+    100102: QuickRigCharacter_LeftHand
+    100104: QuickRigCharacter_LeftLeg
+    100106: QuickRigCharacter_LeftShoulder
+    100108: QuickRigCharacter_LeftToeBase
+    100110: QuickRigCharacter_LeftUpLeg
+    100112: QuickRigCharacter_Neck
+    100114: QuickRigCharacter_Reference
+    100116: QuickRigCharacter_RightArm
+    100118: QuickRigCharacter_RightFoot
+    100120: QuickRigCharacter_RightForeArm
+    100122: QuickRigCharacter_RightHand
+    100124: QuickRigCharacter_RightLeg
+    100126: QuickRigCharacter_RightShoulder
+    100128: QuickRigCharacter_RightToeBase
+    100130: QuickRigCharacter_RightUpLeg
+    100132: QuickRigCharacter_Spine
+    100134: QuickRigCharacter_Spine1
+    100136: QuickRigCharacter_Spine2
+    400000: Eye.L
+    400002: Eye.R
+    400004: //RootNode
+    400006: Phoebe_Body_Maya
+    400008: Phoebe_Hair
+    400010: QuickRigCharacter_Ctrl_ChestEndEffector
+    400012: QuickRigCharacter_Ctrl_ChestOriginEffector
+    400014: QuickRigCharacter_Ctrl_Head
+    400016: QuickRigCharacter_Ctrl_HeadEffector
+    400018: QuickRigCharacter_Ctrl_Hips
+    400020: QuickRigCharacter_Ctrl_HipsEffector
+    400022: QuickRigCharacter_Ctrl_LeftAnkleEffector
+    400024: QuickRigCharacter_Ctrl_LeftArm
+    400026: QuickRigCharacter_Ctrl_LeftElbowEffector
+    400028: QuickRigCharacter_Ctrl_LeftFoot
+    400030: QuickRigCharacter_Ctrl_LeftFootEffector
+    400032: QuickRigCharacter_Ctrl_LeftForeArm
+    400034: QuickRigCharacter_Ctrl_LeftHand
+    400036: QuickRigCharacter_Ctrl_LeftHipEffector
+    400038: QuickRigCharacter_Ctrl_LeftKneeEffector
+    400040: QuickRigCharacter_Ctrl_LeftLeg
+    400042: QuickRigCharacter_Ctrl_LeftShoulder
+    400044: QuickRigCharacter_Ctrl_LeftShoulderEffector
+    400046: QuickRigCharacter_Ctrl_LeftToeBase
+    400048: QuickRigCharacter_Ctrl_LeftUpLeg
+    400050: QuickRigCharacter_Ctrl_LeftWristEffector
+    400052: QuickRigCharacter_Ctrl_Neck
+    400054: QuickRigCharacter_Ctrl_Reference
+    400056: QuickRigCharacter_Ctrl_RightAnkleEffector
+    400058: QuickRigCharacter_Ctrl_RightArm
+    400060: QuickRigCharacter_Ctrl_RightElbowEffector
+    400062: QuickRigCharacter_Ctrl_RightFoot
+    400064: QuickRigCharacter_Ctrl_RightFootEffector
+    400066: QuickRigCharacter_Ctrl_RightForeArm
+    400068: QuickRigCharacter_Ctrl_RightHand
+    400070: QuickRigCharacter_Ctrl_RightHipEffector
+    400072: QuickRigCharacter_Ctrl_RightKneeEffector
+    400074: QuickRigCharacter_Ctrl_RightLeg
+    400076: QuickRigCharacter_Ctrl_RightShoulder
+    400078: QuickRigCharacter_Ctrl_RightShoulderEffector
+    400080: QuickRigCharacter_Ctrl_RightToeBase
+    400082: QuickRigCharacter_Ctrl_RightUpLeg
+    400084: QuickRigCharacter_Ctrl_RightWristEffector
+    400086: QuickRigCharacter_Ctrl_Spine
+    400088: QuickRigCharacter_Ctrl_Spine1
+    400090: QuickRigCharacter_Ctrl_Spine2
+    400092: QuickRigCharacter_Head
+    400094: QuickRigCharacter_Hips
+    400096: QuickRigCharacter_LeftArm
+    400098: QuickRigCharacter_LeftFoot
+    400100: QuickRigCharacter_LeftForeArm
+    400102: QuickRigCharacter_LeftHand
+    400104: QuickRigCharacter_LeftLeg
+    400106: QuickRigCharacter_LeftShoulder
+    400108: QuickRigCharacter_LeftToeBase
+    400110: QuickRigCharacter_LeftUpLeg
+    400112: QuickRigCharacter_Neck
+    400114: QuickRigCharacter_Reference
+    400116: QuickRigCharacter_RightArm
+    400118: QuickRigCharacter_RightFoot
+    400120: QuickRigCharacter_RightForeArm
+    400122: QuickRigCharacter_RightHand
+    400124: QuickRigCharacter_RightLeg
+    400126: QuickRigCharacter_RightShoulder
+    400128: QuickRigCharacter_RightToeBase
+    400130: QuickRigCharacter_RightUpLeg
+    400132: QuickRigCharacter_Spine
+    400134: QuickRigCharacter_Spine1
+    400136: QuickRigCharacter_Spine2
+    4300000: Phoebe_Body_Maya
+    4300002: Eye.L
+    4300004: Eye.R
+    4300006: Phoebe_Hair
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Eye.L
+    13700002: Eye.R
+    13700004: Phoebe_Body_Maya
+    13700006: Phoebe_Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

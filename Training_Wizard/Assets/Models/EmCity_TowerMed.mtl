@@ -1,0 +1,12 @@
+# Blender MTL File: 'EmCity.blend'
+# Material Count: 1
+
+newmtl matGreenMarble
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.050648 0.520004 0.090894
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
